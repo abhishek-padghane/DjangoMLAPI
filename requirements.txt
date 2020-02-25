@@ -1,0 +1,6 @@
+django
+django-tastypie
+pandas
+sklearn
+gunicorn
+django-heroku

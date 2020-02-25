@@ -1,2 +1,2 @@
-# DjangoMlAPI
-This project contains sample django site which gets data attributes and returns the predicted value.
+## Django simple ML API
+This is simple api which stores data, and generates predictions based on data.
